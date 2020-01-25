@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfl/static/css/main.6ef8fc7d.chunk.css",
+    "main.js": "/portfl/static/js/main.89f5c9f5.chunk.js",
+    "main.js.map": "/portfl/static/js/main.89f5c9f5.chunk.js.map",
+    "runtime-main.js": "/portfl/static/js/runtime-main.62fed4e3.js",
+    "runtime-main.js.map": "/portfl/static/js/runtime-main.62fed4e3.js.map",
+    "static/js/2.7a2069d7.chunk.js": "/portfl/static/js/2.7a2069d7.chunk.js",
+    "static/js/2.7a2069d7.chunk.js.map": "/portfl/static/js/2.7a2069d7.chunk.js.map",
+    "index.html": "/portfl/index.html",
+    "precache-manifest.66301df30e57b6d35af34f6d9c3a3e16.js": "/portfl/precache-manifest.66301df30e57b6d35af34f6d9c3a3e16.js",
+    "service-worker.js": "/portfl/service-worker.js",
+    "static/css/main.6ef8fc7d.chunk.css.map": "/portfl/static/css/main.6ef8fc7d.chunk.css.map",
+    "static/js/2.7a2069d7.chunk.js.LICENSE": "/portfl/static/js/2.7a2069d7.chunk.js.LICENSE",
+    "static/media/coding.jpg": "/portfl/static/media/coding.ba6433b7.jpg",
+    "static/media/me.jpg": "/portfl/static/media/me.626e7f1a.jpg",
+    "static/media/dashboard.css": "/portfl/static/media/wall.b230b7e6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62fed4e3.js",
+    "static/js/2.7a2069d7.chunk.js",
+    "static/css/main.6ef8fc7d.chunk.css",
+    "static/js/main.89f5c9f5.chunk.js"
+  ]
+}
